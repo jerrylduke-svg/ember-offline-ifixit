@@ -17,3 +17,5 @@ The source archive was reorganized into 42 compact searchable packages and one s
 `corpus-artifacts.json` identifies the exact 43 logical ZIP transports; `credit-references.json` identifies 42 credit shards. SHA-256 hashes bind the bytes. If a hosting service requires segmented transport, the published segment descriptor must reconstruct the exact listed ZIP hash and size, not a repacked substitute. Do not assume an individually downloaded segment is an installable ZIP.
 
 This release's source files and manifests do not establish Android device compatibility, complete Ember readiness, complete other libraries, or completeness of every upstream page. Known source placeholders and unavailable entries remain source limitations. No user chats, household profiles, credentials or private notes belong in this publication.
+
+Model component only: [Apache 2.0 license](model/LICENSE) and [attribution notice](model/NOTICE). These notices do not license the iFixit corpus.
