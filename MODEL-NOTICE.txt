@@ -1,0 +1,6 @@
+sentence-transformers/all-MiniLM-L6-v2
+Copyright its respective contributors. Apache License 2.0 as declared in the model card.
+https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/tree/1110a243fdf4706b3f48f1d95db1a4f5529b4d41
+Pinned artifact: onnx/model_qint8_arm64.onnx
+Model revision: 1110a243fdf4706b3f48f1d95db1a4f5529b4d41
+The ONNX export uses dynamic int8 quantization intended for ARM64; use the identical artifact for document and query embeddings.

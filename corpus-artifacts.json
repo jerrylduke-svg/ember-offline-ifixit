@@ -1,0 +1,478 @@
+{
+  "schema_version": 1,
+  "scope": "Exact logicalZIPidentities; not liveURLs or appactivation",
+  "source_archive_sha256": "9bb5f3408707fd0300c6ef47a425c3217187f144cd9154a928183816aa72eead",
+  "artifacts": [
+    {
+      "id": "compact-shared-c88addd085f6f717",
+      "version": "compact-recovered-20261118",
+      "storage_format": "compact-shared-v1",
+      "file": "shared.zip",
+      "sha256": "631cb088a56fa48d663fa89bbf19f8689b8b8763af19dcab227f9003a208f1e8",
+      "download_bytes": 4590345821,
+      "dependencies": []
+    },
+    {
+      "id": "ifixit-en-part-0001",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0001-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "bfd24db837a675a706aec09d5d7eb27715ef49cb1d5604c882c981cf117beac3",
+      "download_bytes": 59540400,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0002",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0002-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "4e73a045866211621bf33adaa375768632a8e2b9945919d110b097ed45a749e8",
+      "download_bytes": 58171858,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0003",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0003-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "a4b01289f09435c99e89b46143215ae852dfc59987eb5c577ffadb0e131eed94",
+      "download_bytes": 58528547,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0004",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0004-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "286ca3db03b729802f80f5482e0d25a25a6a4b7c0f00ecbd47c472bc920cf9ee",
+      "download_bytes": 58587811,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0005",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0005-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "188902a2f85ea320540c04c62ba9f559d09a15b90ea282a0be3a5586ec7e7442",
+      "download_bytes": 57692661,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0006",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0006-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "bedf0748aff68c3c82b8747e746efcbf4d4a51dfac823250dea60440e494de83",
+      "download_bytes": 57489415,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0007",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0007-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "2652632232464fc2eb4033996301206e4fd4e1facc5be97c0a4344a2c0550db9",
+      "download_bytes": 57482725,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0008",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0008-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "9d3db292c30073a4d27d7fe22dcb62e82ab97243d9b078796aa51bdc0a3a29e4",
+      "download_bytes": 57239223,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0009",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0009-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "a2645f877b4ee0b5f8a5fadfdfb82327aae5055ed773ae2065bdb0b6894cfb92",
+      "download_bytes": 58729997,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0010",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0010-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "de2e2687553dcdf9578c08d84cd1f85fb119c3c355bc5bbd46c49a26bb4710b4",
+      "download_bytes": 58597029,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0011",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0011-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "be2d61e6bc5f41a6ee92f1c3f1a878e1fde67842b6ccd1fed8be1f828161ea85",
+      "download_bytes": 56844191,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0012",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0012-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "05a31eacf58df37adc6b56bf4405b9efd1217a99758e3d9953cfcda44cb20157",
+      "download_bytes": 59001877,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0013",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0013-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "9a4a0856440f21fea99c24f0b737b0caeff2491fa2b2e03dcd48094f7aae33d7",
+      "download_bytes": 58908122,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0014",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0014-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "1a1aa4e851d62ba7dc199557f193bcafd7dfc0e5c20e0a6ba92cc2a289d77d27",
+      "download_bytes": 59155183,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0015",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0015-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "be5aa24e91826f2b0038a4339f1f1e9488cf8efec09c76f259238266cdc875f9",
+      "download_bytes": 59324529,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0016",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0016-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "6ae8b8d42b30672d15029841d32c4e4a7db3d4bc29281c5f327234711ff0b104",
+      "download_bytes": 56940754,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0017",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0017-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "da0b4d35487134be1c08c0256fca378b4f3a671518e605df067441c5f85e8fc3",
+      "download_bytes": 54804752,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0018",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0018-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "f11d9c5e52f8c472c2ce789a861869af442d8582123b89181bb6f4409a90fd4b",
+      "download_bytes": 58303686,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0019",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0019-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "e3dfe548b8af4c9029648da19d1794c5991bc1767b375d4a8bd3314b67e57190",
+      "download_bytes": 59719439,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0020",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0020-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "67655b93d0aa4cbd4cb2b7daab6b7beb471ebec7d98dccc519e337d3fbe8fe3c",
+      "download_bytes": 59028882,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0021",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0021-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "ef40eaae60863a3fc2f94990393a19de652b2b402e86add5e2410dd24efc17c7",
+      "download_bytes": 58815588,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0022",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0022-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "d37f6887e5ad70ce079d1a31614f20da5ab2484041c231983f09a242b5f6b2ae",
+      "download_bytes": 57234634,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0023",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0023-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "659fccdeca6ce6afce4a00450f22f4890225220ca217b6e8be79d952d238e13e",
+      "download_bytes": 59498676,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0024",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0024-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "f05665ece742cf30d4f4a3f855be3d2f33c8d013947c2f371c206e810e47fc95",
+      "download_bytes": 58157654,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0025",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0025-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "fe3abe977f2a3f9aa971fd372a47e42d773521ed57637e186908dc076a6f9b9b",
+      "download_bytes": 57790677,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0026",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0026-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "3db851cc8f2269c3ac05df1e9903490d9d7014a1cb3bd5eb4322825574b8c803",
+      "download_bytes": 58604550,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0027",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0027-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "26481b2968cbabde1eb50499c97702d2806a39cce0ed95770326a8e95d4ace38",
+      "download_bytes": 57935186,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0028",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0028-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "36b0103b920644ff0e257f2927fd8b27976ff31e7d84f182b63b37f0f0310552",
+      "download_bytes": 57476619,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0029",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0029-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "8fb3d206e979991070dd7b558bf4cb741bc2a4b9d54cd28270b5121b2d4f4827",
+      "download_bytes": 59152405,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0030",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0030-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "67fa72d9c1d6d2f12f2d074800960ebf1fac7ad69bb9d675c5a03d59786edb44",
+      "download_bytes": 59063178,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0031",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0031-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "160786cd7c281149c44b6f0ad1dd20450c9702663ce8511fafe0533b5c671433",
+      "download_bytes": 58510080,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0032",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0032-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "573f910fc6c183f9d35b71cd30385f515de60a8e1ea896edd5b6836b41aa4ebe",
+      "download_bytes": 60278902,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0033",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0033-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "3d8025b24dc1978aef517735d4aface84393a9a990ce2b9454a8b64d01ed5aaa",
+      "download_bytes": 57116505,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0034",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0034-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "b7802a56e4a8c06f63b73132344eafb18001f46478691c716a4919fce41b6d06",
+      "download_bytes": 56411933,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0035",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0035-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "bb8dcb76e59372186467dbd359dc321bf2f11b92d3a0bc41257eca16f14fe097",
+      "download_bytes": 56986486,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0036",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0036-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "209cff2867ebd57c63dcd512a039f1f88ef3bc61c61ea66267168fdd23de5289",
+      "download_bytes": 58027339,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0037",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0037-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "1de912e1041ce35cad75dd2b589efdbd0710c01f895bd9fbb409f7a5764bacc9",
+      "download_bytes": 59057520,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0038",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0038-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "c2cabee0ef6f9c343b7008346154bb184cd85b4712d05d88626ca94e23cae951",
+      "download_bytes": 57514783,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0039",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0039-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "f22de10ec10a26a7f5b243354062a079b476028ef0249fd99c59a8bae16ecf08",
+      "download_bytes": 58854887,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0040",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0040-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "dd198786db146a801fb4c576ac2994f26e87a4576f2dd7d602604a8066f7dd25",
+      "download_bytes": 57661314,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0041",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0041-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "8ba57b716e679a57969e4bd6ac5fb85fdba44c91a4c3616c688eed8478caa6d4",
+      "download_bytes": 57363473,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    },
+    {
+      "id": "ifixit-en-part-0042",
+      "version": "2025-12-v3",
+      "storage_format": "compact-v1",
+      "file": "ifixit-en-part-0042-2025-12-v3-compact-recovered-20261118.zip",
+      "sha256": "07f3b65080771ac515241553bc0f0d45b0622ec53798f5205b4d145a6be06721",
+      "download_bytes": 23058314,
+      "dependencies": [
+        "compact-shared-c88addd085f6f717"
+      ]
+    }
+  ]
+}
